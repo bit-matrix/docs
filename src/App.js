@@ -9,6 +9,12 @@ function App() {
         <span>
           Bitmatrix Paper Early Preview -> <a href="/v1/11_21_21/Bitmatrix_Paper_Early_Preview.pdf"> PDF File</a>
         </span>
+        <span>
+          Script editor ->
+          <a target="_blank" href="https://ide.scriptwiz.app">
+            Link
+          </a>
+        </span>
       </header>
     </div>
   );
